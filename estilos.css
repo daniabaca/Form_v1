@@ -1,0 +1,51 @@
+.encabezado_ppal{
+    color:white;
+    background-color: brown;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.formulario_ppal{
+    padding: 10px;
+
+}
+
+.formulario_ppal button{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.nav_ppal a{
+
+color:black;
+text-decoration: none;
+display: block;
+padding: 10px;
+font-weight: bold;
+
+}
+
+
+
+.acerca{
+font-size: large;    
+color: blanchedalmond;    
+background-color: blue;
+margin:10px;
+align-items: center;
+}
+
+.nav_acerca a{
+padding: 10px;    
+color: orangered;    
+text-decoration: none;
+font-weight:600;
+font-size: xx-large;
+
+}
+
+.resultado{
+font-size: larger;    
+background-color: blueviolet;
+
+}
